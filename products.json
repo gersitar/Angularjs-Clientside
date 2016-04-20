@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Third Blog Entry",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate exercitationem qui quam minus dignissimos porro eum quia hic enim explicabo. Consequuntur, doloremque voluptatem eveniet id minus corporis reiciendis molestias similique!",
+    "shine": 8,
+    "price": 110.50,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Second Blog Entry",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, quo, aperiam dolores voluptates enim repellendus voluptate commodi itaque cumque voluptas veniam magni blanditiis delectus impedit libero quae vero dolorem doloremque.",
+    "shine": 9,
+    "price": 22.90,
+    "rarity": 6,
+    "color": "#EEE",
+    "faces": 12,
+    "images": [
+      "images/gem-01.gif",
+      "images/gem-03.gif",
+      "images/gem-04.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "First Blog Entry",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, quam, non eaque modi suscipit repellendus tenetur distinctio amet cupiditate voluptatum accusantium consequatur repudiandae mollitia unde ratione nulla esse fugiat minus!",
+    "shine": 70,
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/gem-06.gif",
+      "images/gem-07.gif",
+      "images/gem-08.gif"
+    ],
+    "reviews": []
+  }
+]

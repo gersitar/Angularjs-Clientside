@@ -1,0 +1,9 @@
+<!-- if nothing is returned for image. etc, nothing will show up, this includes h1 tags-->
+<div ng-repeat="image in store.products | limitTo:2:store.pageoffset" class="col-sm-6 col-sm-offset-3 well">
+	<p class="lead">{{image.name}}</p>
+	<p>{{image.description}}</p>
+</div>
+
+<div class="col-sm-6 col-sm-offset-3 text-center">
+<label>Page</label><input type="number" step="1" min="0" max="2" ng-model="store.pageoffset">
+</div>

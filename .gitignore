@@ -4,6 +4,10 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+node_modules/
+original/
+preprocessed/
+scss/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -13,6 +17,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
 
 # Windows shortcuts
 *.lnk
@@ -45,3 +50,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+scripts/all.js

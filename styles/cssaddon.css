@@ -1,0 +1,22 @@
+/* ==========================================================================
+   maybe include html5 css reset https://cdnjs.com/libraries/normalize
+   ========================================================================== */
+
+#headerbg {
+	background-image: url('http://gersitar.github.io/angularjs-clientside/images/135H.jpg');
+	background-size: cover;
+	margin-bottom: 5rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+.logofollow{
+	font-size: 2em;
+	color: white;
+	margin: 2rem;
+
+}
+
+.btnbg{
+	background-color: white;
+}
